@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @igorma1a
+- 👀 I`m interested in studying programming and development.
+- 🌱 I’m currently learning HTML, CSS and JavaScript...
